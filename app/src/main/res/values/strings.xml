@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Asistencia</string>
+    <string name="button_text_students">ESTUDIANTES</string>
+    <string name="button_text_attendances">ASISTENCIAS</string>
+    <string name="txt_name_group">NOMBRE DEL GRUPO</string>
+    <string name="edtx_name_group">NOMBRE DEL GRUPO</string>
+    <string name="edit_text_save">GUARDAR</string>
+    <string name="edit_text_cancel">CANCELAR</string>
 </resources>
